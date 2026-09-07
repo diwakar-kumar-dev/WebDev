@@ -1,0 +1,38 @@
+h1{
+    color:red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h2{
+    font-size: 50px;
+    font-weight: 100;
+}
+#anu{
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 3px;
+    letter-spacing: 50px;
+    word-spacing: 5;
+
+}
+#text{
+    /* text-align: center;
+    text-decoration: underline dashed 3px;
+    text-decoration: line-through;
+    text-decoration: underline wavy;
+
+
+    text-transform:capitalize;
+    text-transform:lowercase;
+    text-transform:uppercase; */
+
+    text-indent: 30px;
+    text-shadow: 9px 7px 6px blue;
+}
+#fornt{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    /* color: #751414; */
+    /* color: rgb(rgb(243, 227, 227), rgb(220, 240, 220), rgb(57, 57, 81)); */
+    color: hsl(36%,5%, 55%);
+}
